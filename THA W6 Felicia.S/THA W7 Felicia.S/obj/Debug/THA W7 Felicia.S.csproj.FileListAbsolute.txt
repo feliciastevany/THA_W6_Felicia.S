@@ -1,0 +1,12 @@
+C:\Users\felic\source\repos\THA W7 Felicia.S\THA W7 Felicia.S\bin\Debug\THA W7 Felicia.S.exe.config
+C:\Users\felic\source\repos\THA W7 Felicia.S\THA W7 Felicia.S\bin\Debug\THA W7 Felicia.S.exe
+C:\Users\felic\source\repos\THA W7 Felicia.S\THA W7 Felicia.S\bin\Debug\THA W7 Felicia.S.pdb
+C:\Users\felic\source\repos\THA W7 Felicia.S\THA W7 Felicia.S\obj\Debug\THA W7 Felicia.S.csproj.AssemblyReference.cache
+C:\Users\felic\source\repos\THA W7 Felicia.S\THA W7 Felicia.S\obj\Debug\THA W7 Felicia.S.csproj.SuggestedBindingRedirects.cache
+C:\Users\felic\source\repos\THA W7 Felicia.S\THA W7 Felicia.S\obj\Debug\THA_W7_Felicia.S.Form1.resources
+C:\Users\felic\source\repos\THA W7 Felicia.S\THA W7 Felicia.S\obj\Debug\THA_W7_Felicia.S.Properties.Resources.resources
+C:\Users\felic\source\repos\THA W7 Felicia.S\THA W7 Felicia.S\obj\Debug\THA W7 Felicia.S.csproj.GenerateResource.cache
+C:\Users\felic\source\repos\THA W7 Felicia.S\THA W7 Felicia.S\obj\Debug\THA W7 Felicia.S.csproj.CoreCompileInputs.cache
+C:\Users\felic\source\repos\THA W7 Felicia.S\THA W7 Felicia.S\obj\Debug\THA W7 Felicia.S.exe
+C:\Users\felic\source\repos\THA W7 Felicia.S\THA W7 Felicia.S\obj\Debug\THA W7 Felicia.S.pdb
+C:\Users\felic\source\repos\THA W7 Felicia.S\THA W7 Felicia.S\obj\Debug\THA_W7_Felicia.S.Form2.resources
